@@ -24,3 +24,15 @@ Deep Learning Framework: TensorFlow/Keras
 Libraries: OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn
 
 Dataset: Custom dataset or publicly available coffee bean image dataset
+
+Model Architecture
+
+Input Layer (Image Processing)
+
+Convolutional Layers (Feature Extraction)
+
+Max-Pooling Layers (Dimensionality Reduction)
+
+Fully Connected Layers (Classification)
+
+Output Layer (Softmax for multi-class classification)
